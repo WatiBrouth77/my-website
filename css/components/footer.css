@@ -1,0 +1,24 @@
+.footer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  background-color: black;
+  padding: 24px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 32px;
+}
+.footer a:hover {
+  color: #575F7D;
+  transition: color 0.5s ease;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
